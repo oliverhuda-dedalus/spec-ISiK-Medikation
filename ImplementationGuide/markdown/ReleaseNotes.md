@@ -8,7 +8,7 @@ Version: 3.0.0-rc
 
 Datum: 11.04.2023
 
-* Ausschließlich update der Dependency Packages für ISiK Basismodul und MII-Package
+* Ausschließlich Update der Dependency Packages für ISiK Basismodul und Medizininformatik-Initiative
 
 ----
 Version: 2.0.2
